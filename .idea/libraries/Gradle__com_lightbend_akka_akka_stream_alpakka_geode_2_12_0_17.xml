@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lightbend.akka:akka-stream-alpakka-geode_2.12:0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lightbend.akka/akka-stream-alpakka-geode_2.12/0.17/7ae27c70574676600bd9d38b8c9eb73d234ebcbe/akka-stream-alpakka-geode_2.12-0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lightbend.akka/akka-stream-alpakka-geode_2.12/0.17/b56f32a589e84ccb22c82a7508d97457d8a75873/akka-stream-alpakka-geode_2.12-0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
